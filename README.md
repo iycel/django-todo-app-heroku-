@@ -20,10 +20,10 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
-- [Built With](#built-with)
-- [Features](#features)
-- [How to use](#how-to-use)
+  - [Built With](#built-with)
+- [How To Use](#how-to-use)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
@@ -53,7 +53,7 @@ $ git clone https://github.com/your-user-name/your-project-name
 
 # Install dependencies
     $ python -m venv env
-    > env/Scripts/activate (for win OS)
+    $ env/Scripts/activate (for win OS)
     $ source env/bin/activate (for macOs/linux OS)
     $ pip install -r requirements.txt
 
@@ -69,7 +69,7 @@ $ git clone https://github.com/your-user-name/your-project-name
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@iycel](https://{github.com/your-usermame})
 
-- Linkedin [@your-linkedin](https://{linkedin.com/your-username})
+- Linkedin [@your-linkedin](www.linkedin.com/in/iycel)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
